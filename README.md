@@ -7,11 +7,11 @@ conditions in the kennels.
 
 ### Authors
 
-Bernardo José Coelho Leite | up201404464@fe.up.pt 
-Francisco Teixeira Lopes | up201106912@fe.up.pt
-João Alexandre Carvalho Marinho dos Santos | up201504013@fe.up.pt
-Maria Eduarda Santos Cunha | up201506524@fe.up.pt
-Verónica Sofia Marcos Fradique | up201506440@fe.up.pt 
+* Bernardo José Coelho Leite | up201404464@fe.up.pt 
+* Francisco Teixeira Lopes | up201106912@fe.up.pt
+* João Alexandre Carvalho Marinho dos Santos | up201504013@fe.up.pt
+* Maria Eduarda Santos Cunha | up201506524@fe.up.pt
+* Verónica Sofia Marcos Fradique | up201506440@fe.up.pt 
 
 ### Screenshots
 
